@@ -1,0 +1,181 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+            "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+            "author": "Learn with Sumit",
+            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+            "date": "May 10, 2022",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+            "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+            "tags": ["javascript", "react", "tips"],
+            "likes": 5,
+            "unlikes": 2
+        },
+        {
+            "id": 2,
+            "title": "Miraz Play Cricket On Fire🔥",
+            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+            "author": "Miraz",
+            "avatar": "https://avatars.githubusercontent.com/u/72273036?v=4",
+            "date": "Oct 15, 2021",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube-nocookie.com/embed/J9j8b69-bzA",
+            "thumbnail": "https://i3.ytimg.com/vi/J9j8b69-bzA/maxresdefault.jpg",
+            "tags": ["tailwind", "css", "ui"],
+            "likes": 7,
+            "unlikes": 0
+        },
+        {
+            "id": 7,
+            "title": "VS Code Snippets - Boost your productivity with User Snippets",
+            "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+            "author": "Learn with Sumit",
+            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+            "date": "April 25, 2022",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+            "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+            "tags": ["vscode", "tips"],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 3,
+            "title": "Srotoshini | ENCORE | Lyrics | স্রোতস্বিনী",
+            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+            "author": "Miraz",
+            "avatar": "https://avatars.githubusercontent.com/u/72273036?v=4",
+            "date": "Oct 15, 2021",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube-nocookie.com/embed/pCWGCw9G42U",
+            "thumbnail": "https://i3.ytimg.com/vi/pCWGCw9G42U/maxresdefault.jpg",
+            "tags": ["tailwind", "css", "ui"],
+            "likes": 7,
+            "unlikes": 0
+        },
+        {
+            "id": 4,
+            "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+            "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+            "author": "Learn with Sumit",
+            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+            "date": "Jan 06, 2022",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+            "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+            "tags": ["debounce", "javascript", "tips"],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 5,
+            "title": "Don't Be A Programmer",
+            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+            "author": "Joma Tech",
+            "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9W2h9scoXcwnKhrhI0qeCL34DXNbamX-rBosaN=s48-c-k-c0x00ffffff-no-rj",
+            "date": "Oct 15, 2021",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube-nocookie.com/embed/EiKK04Ht8QI",
+            "thumbnail": "https://i3.ytimg.com/vi/EiKK04Ht8QI/maxresdefault.jpg",
+            "tags": ["tailwind", "css", "ui"],
+            "likes": 7,
+            "unlikes": 0
+        },
+        {
+            "id": 6,
+            "title": "The Chainsmokers & Coldplay - Something Just Like This",
+            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+            "author": "Miraz",
+            "avatar": "https://avatars.githubusercontent.com/u/72273036?v=4",
+            "date": "Oct 15, 2021",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube-nocookie.com/embed/FM7MFYoylVs",
+            "thumbnail": "https://i3.ytimg.com/vi/FM7MFYoylVs/maxresdefault.jpg",
+            "tags": ["tailwind", "css", "ui"],
+            "likes": 7,
+            "unlikes": 0
+        },
+        {
+            "id": 8,
+            "title": "a day in the life of an engineer working from home",
+            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+            "author": "Joma Tech",
+            "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9W2h9scoXcwnKhrhI0qeCL34DXNbamX-rBosaN=s48-c-k-c0x00ffffff-no-rj",
+            "date": "Oct 15, 2021",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube-nocookie.com/embed/Rgx8dpiPwpA",
+            "thumbnail": "https://i3.ytimg.com/vi/Rgx8dpiPwpA/maxresdefault.jpg",
+            "tags": ["tailwind", "css"],
+            "likes": 7,
+            "unlikes": 0
+        },
+        {
+            "id": 9,
+            "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+            "author": "Learn with Sumit",
+            "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+            "date": "Oct 15, 2021",
+            "duration": "10:12",
+            "views": "2.1k",
+            "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+            "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+            "tags": ["tailwind", "css", "ui"],
+            "likes": 0,
+            "unlikes": 0
+        }
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "title": "javascript"
+        },
+        {
+            "id": 2,
+            "title": "react"
+        },
+        {
+            "id": 3,
+            "title": "tips"
+        },
+        {
+            "id": 4,
+            "title": "vscode"
+        },
+        {
+            "id": 5,
+            "title": "tailwind"
+        },
+        {
+            "id": 6,
+            "title": "css"
+        },
+        {
+            "id": 7,
+            "title": "debounce"
+        },
+        {
+            "id": 8,
+            "title": "sass"
+        },
+        {
+            "id": 9,
+            "title": "ui"
+        },
+        {
+            "id": 10,
+            "title": "router"
+        }
+    ]
+}
