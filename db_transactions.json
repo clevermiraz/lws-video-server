@@ -1,5 +1,4 @@
-{
-  "transactions": [
+[
     {
       "name": "salary",
       "type": "income",
@@ -36,5 +35,4 @@
       "amount": "700",
       "id": 6
     }
-  ]
-}
+]
