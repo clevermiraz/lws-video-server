@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "name": "salary",
+      "type": "income",
+      "amount": 2000,
+      "id": 1
+    },
+    {
+      "name": "know",
+      "type": "income",
+      "amount": 1000,
+      "id": 2
+    },
+    {
+      "name": "pendrive",
+      "type": "expense",
+      "amount": 10000,
+      "id": 3
+    },
+    {
+      "name": "salary",
+      "type": "income",
+      "amount": 10000,
+      "id": 4
+    },
+    {
+      "name": "fuck",
+      "type": "expense",
+      "amount": "300",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "type": "expense",
+      "amount": "700",
+      "id": 6
+    }
+  ]
+}
